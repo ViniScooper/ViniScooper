@@ -16,7 +16,7 @@ Sou apaixonado por bancos de dados e desenvolvimento de software. Atualmente, at
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/jose-vinicius-louren%C3%A7o-1a6b9014a///)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-vinicius-louren%C3%A7o-1a6b9014a/)
 
 ---
 
