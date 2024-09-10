@@ -9,6 +9,7 @@ Sou apaixonado por bancos de dados e desenvolvimento de software. Atualmente, at
 - **Back-end**: Node.js, Python, PL/SQL
 - **Front-end**: Angular, JavaScript
 
+
 ---
 
 ![Vinicius Lourenço's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniScooper&show_icons=true&theme=dark)
