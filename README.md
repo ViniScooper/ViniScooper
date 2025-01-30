@@ -12,6 +12,8 @@ Sou apaixonado por bancos de dados e desenvolvimento de software. Atualmente, at
 
 ---
 
+
+
 ![Vinicius Lourenço's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniScooper&show_icons=true&theme=dark)
 
 ---
