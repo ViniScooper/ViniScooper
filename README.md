@@ -1,30 +1,52 @@
 # 👋 Olá! Eu sou o Vinicius Lourenço
 
-🔧 **DBA e Desenvolvedor de Software**
-
-Sou apaixonado por bancos de dados e desenvolvimento de software. Atualmente, atuo como DBA e desenvolvedor de software, combinando as duas áreas para criar soluções inovadoras e eficientes.
-
-## 🚀 Tecnologias que utilizo:
-- **Bancos de Dados**: Oracle, MariaDB, SQL
-- **Back-end**: Node.js, Python, PL/SQL
-- **Front-end**: Angular, JavaScript
-
+**🔧 DBA & Desenvolvedor Full-Stack**  
+*Transformando dados em soluções inteligentes*
 
 ---
 
+## 🚀 **Habilidades Técnicas**
 
-
-![Vinicius Lourenço's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniScooper&show_icons=true&theme=dark)
-
----
-
-## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-vinicius-louren%C3%A7o-1a6b9014a/)
-
----
-
-## 🛠️ Tecnologias
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+### 🗃️ **Bancos de Dados**
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 💻 **Back-end**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🎨 **Front-end**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📈 **Estatísticas do GitHub**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniScooper&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniScooper&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
+
+---
+
+## 🌍 **Conecte-se Comigo**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-vinicius-louren%C3%A7o-1a6b9014a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniScooper)
+
+---
+
+## 🔥 **Principais Projetos**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniScooper&repo=seu-repositorio&theme=vision-friendly-dark)](https://github.com/ViniScooper/seu-repositorio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniScooper&repo=outro-repositorio&theme=vision-friendly-dark)](https://github.com/ViniScooper/outro-repositorio)
+
+*Substitua os links acima por seus repositórios destacados*
+
+---
+
+**⚡ Fun Fact:**  
+*"A primeira versão do Oracle Database foi desenvolvida em 1977 usando apenas 128KB de memória!"*
