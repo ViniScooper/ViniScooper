@@ -43,10 +43,9 @@
 ---
 
 ## 🔥 **Principais Projetos**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniScooper&repo=seu-repositorio&theme=vision-friendly-dark)](https://github.com/ViniScooper/seu-repositorio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniScooper&repo=outro-repositorio&theme=vision-friendly-dark)](https://github.com/ViniScooper/outro-repositorio)
 
-*Substitua os links acima por seus repositórios destacados*
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniScooper&repo=projeto&theme=vision-friendly-dark)](https://github.com/ViniScooper/projeto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniScooper&repo=portfolio&theme=vision-friendly-dark)](https://github.com/ViniScooper/portfolio)
 
 ---
 
