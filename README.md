@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vinicius Lourenço
 
-**Oracle DBA Jr | Full-Stack Developer**  
+**Oracle DBA  | Full-Stack Developer**  
 *I build reliable systems, optimize databases, and turn data into real products.*
 
 💡 DBA by day, developer by passion.  
