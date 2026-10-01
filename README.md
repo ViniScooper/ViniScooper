@@ -1,49 +1,62 @@
 <div align="center">
-  <h1>Vinícius Lourenço</h1>
-  <h3>Database Administrator & Cloud / DevOps Engineer</h3>
-  <p><i>Sustentação de bancos de dados de missão crítica, arquitetura multi-cloud e engenharia de software.</i></p>
 
-  <a href="https://viniscooper.com.br"><img src="https://img.shields.io/badge/Portfólio-viniscooper.com.br-0d9488?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/jose-vinicius-louren%C3%A7o-1a6b9014a/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:vviniciuslourenco@gmail.com"><img src="https://img.shields.io/badge/Email-vviniciuslourenco%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/ViniScooper"><img src="https://img.shields.io/badge/GitHub-ViniScooper-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+# Vinicius Lourenço
+**Database Administrator · Cloud / DevOps**
+
+Oracle · PostgreSQL · AWS · OCI · Docker
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0b3d91?style=flat-square&logo=googlechrome&logoColor=white)](https://viniscooper.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b3d91?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-vinicius-louren%C3%A7o-1a6b9014a/)
+[![Email](https://img.shields.io/badge/Email-0b3d91?style=flat-square&logo=gmail&logoColor=white)](mailto:vviniciuslourenco@gmail.com)
+
 </div>
 
 ---
 
-### ⚡ Sobre Mim
+## Sobre
 
-- 🗃️ **DBA & Performance:** Sustentação, tuning e migrações de **Oracle (19c/21c)** e **PostgreSQL (AWS RDS)**. Foco em Disaster Recovery (RMAN/Data Pump) e alta disponibilidade.
-- ☁️ **Cloud & DevOps:** Provisionamento de infraestrutura na **OCI** e **AWS**. Automação com **Terraform**, orquestração com **Docker** e segurança via **Cloudflare Zero Trust**.
-- 🚀 **Engenharia Full-Stack:** Desenvolvimento de soluções web corporativas e integrações de dados utilizando **Node.js, Next.js e React**.
-
----
-
-### 🛠️ Stack Tecnológica
-
-| Área | Tecnologias |
-| :--- | :--- |
-| **Bancos de Dados** | Oracle (19c/21c, Exadata ATP), PostgreSQL, MySQL, PL/SQL |
-| **Cloud & DevOps** | OCI, AWS, Docker, Terraform, Cloudflare Zero Trust, Linux |
-| **Desenvolvimento** | Node.js, Next.js, React, TypeScript, Python, Bash |
+- DBA em produção com **Oracle 19c/21c** e **PostgreSQL (AWS RDS)**, SLA de **99.98%**
+- Tuning com AWR, ADDM, `EXPLAIN ANALYZE` e `pg_stat_statements`
+- Backup e DR com RMAN e Data Pump
+- Migração Oracle → PostgreSQL com AWS DMS (CDC)
 
 ---
 
-### 🔥 Projetos em Destaque
+## Stack
 
-- ☁️ **[CloudOps Hub](https://github.com/ViniScooper/CloudOps_Hub) —** Plataforma corporativa de gerenciamento multi-cloud para servidores, containers e automação de deploys. <br>*(Next.js, Fastify, Docker, Cloudflare Zero Trust, OCI)*
-- 💼 **[FinControl](https://github.com/ViniScooper/controle-financeiro) —** PWA mobile-first para gestão financeira inteligente e simulação algorítmica de amortizações. <br>*(React, Node, Express, Oracle Cloud ATP)*
+![Oracle](https://img.shields.io/badge/Oracle-0b3d91?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b3d91?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0b3d91?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0b3d91?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0b3d91?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0b3d91?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-0b3d91?style=flat-square&logo=terraform&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0b3d91?style=flat-square&logo=cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-0b3d91?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0b3d91?style=flat-square&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0b3d91?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b3d91?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0b3d91?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0b3d91?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0b3d91?style=flat-square&logo=react&logoColor=white)
 
 ---
 
-### 🛡️ Princípios de Engenharia
+## Projetos
 
-- **Zero Exposure:** Portas de banco de dados e SSH nunca são expostas à internet. Todo o tráfego ocorre via túneis criptografados.
-- **Database As Code:** Versionamento de schemas integrado às esteiras de CI/CD.
-- **Resiliência:** SLAs mantidos com políticas de backup quente e monitoramento ativo.
+**[CloudOps Hub](https://github.com/ViniScooper/CloudOps_Hub)** · [demo](https://cloudops-hub-dun.vercel.app/)
+Console para gerenciar servidores, containers, túneis Zero Trust e deploys (Vercel/Render), com telemetria ao vivo e assistente de IA.
+`Next.js` `Fastify` `Docker` `OCI`
 
-<br>
+**[FinControl](https://github.com/ViniScooper/controle-financeiro)** · [demo](https://controle-financeiro-mauve-two.vercel.app/)
+PWA de finanças com simulador de amortização e lembretes de fatura por WhatsApp.
+`React` `Express` `Oracle ATP` `JWT`
 
-<div align="center">
-  <i>"O Oracle Database começou em 1977 rodando com apenas 128 KB de RAM. Performance e estabilidade importam desde o primeiro byte."</i>
-</div>
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ViniScooper&show_icons=true&hide_border=true&bg_color=0a192f&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniScooper&layout=compact&hide_border=true&bg_color=0a192f&title_color=60a5fa&text_color=cbd5e1" />
+</p>
